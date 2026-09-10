@@ -1,22 +1,22 @@
 <div align="center">
 
-<h1 align="center">Hi I'm Yoon!</h1>
-<h3 align="center">Computer Engineering Student</h3>
+<h1 align="center">Hi there, I'm Yoon! 👋</h1>
+<h3 align="center">Computer Engineering Student | Mobile & Web Developer</h3>
 
 <br/>
 <br/>
 
 <!-- ปุ่ม Contact 3 ปุ่ม -->
-<h3 align="center">Connect with me</h3>
+<h3 align="center">🚀 Connect with me</h3>
 <p align="center">
   <a href="https://web.facebook.com/abasdroon.maeha/?locale=th_TH" target="_blank">
-    <img src="[https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white](https://www.facebook.com/abasdroon.maeha/)" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://www.linkedin.com/in/abasdrun-maeha-266297421" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/abasdrun-maeha/)" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://line.me/ti/p/UtYAq0lyxF" target="_blank">
-    <img src="h[ttps://img.shields.io/badge/LINE-%2300C300.svg?style=for-the-badge&logo=line&logoColor=white](https://line.me/ti/p/UtYAq0lyxF)" alt="LINE"/>
+    <img src="https://img.shields.io/badge/LINE-%2300C300.svg?style=for-the-badge&logo=line&logoColor=white" alt="LINE"/>
   </a>
 </p>
 
