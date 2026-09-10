@@ -1,26 +1,22 @@
 <div align="center">
 
-<!-- ข้อความคงที่แบบอ่านง่าย (ไม่มีพิมพ์ลบแล้ว) -->
-<h1 align="center">Hi there, I'm Yoon! 👋</h1>
-<h3 align="center">Computer Engineering Student | Mobile & Web Developer</h3>
-
-<!-- อนิเมชั่น 3D แบบเสถียร (ดึงไฟล์ตรงจาก GitHub จะไม่ล่ม) -->
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="150" />
+<h1 align="center">Hi I'm Yoon!</h1>
+<h3 align="center">Computer Engineering Student</h3>
 
 <br/>
 <br/>
 
 <!-- ปุ่ม Contact 3 ปุ่ม -->
-<h3 align="center">🚀 Connect with me</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://web.facebook.com/abasdroon.maeha/?locale=th_TH" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+    <img src="[https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white](https://www.facebook.com/abasdroon.maeha/)" alt="Facebook"/>
   </a>
   <a href="https://www.linkedin.com/in/abasdrun-maeha-266297421" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="[https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/abasdrun-maeha/)" alt="LinkedIn"/>
   </a>
   <a href="https://line.me/ti/p/UtYAq0lyxF" target="_blank">
-    <img src="https://img.shields.io/badge/LINE-%2300C300.svg?style=for-the-badge&logo=line&logoColor=white" alt="LINE"/>
+    <img src="h[ttps://img.shields.io/badge/LINE-%2300C300.svg?style=for-the-badge&logo=line&logoColor=white](https://line.me/ti/p/UtYAq0lyxF)" alt="LINE"/>
   </a>
 </p>
 
@@ -36,15 +32,6 @@
     <br><br>
     <img src="https://skillicons.dev/icons?i=aws,docker,figma,git,github,raspberrypi" />
   </a>
-</p>
-
-<br/>
-
-<!-- GitHub Stats (เพิ่ม cache_seconds เพื่อแก้ปัญหาเซิร์ฟเวอร์ล่มแล้วรูปไม่ขึ้น) -->
-<h3 align="center">📈 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abasdrun&show_icons=true&theme=tokyonight&hide_border=true&title_color=2196F3&cache_seconds=86400" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasdrun&layout=compact&theme=tokyonight&hide_border=true&title_color=2196F3&cache_seconds=86400" alt="Top Languages" width="35%" />
 </p>
 
 </div>
