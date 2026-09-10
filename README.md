@@ -4,7 +4,6 @@
 <h3 align="center">Computer Engineering Student</h3>
 
 <br/>
-<br/>
 
 <!-- ปุ่ม Contact 3 ปุ่ม -->
 <h3 align="center">Connect with me</h3>
