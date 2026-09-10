@@ -1,20 +1,58 @@
-# Abasdrun Maeha (Yoon)
+<div align="center">
 
-Computer Engineering student.
+<!-- พิมพ์ข้อความแบบเคลื่อนไหว -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Yoon!+%F0%9F%91%8B;Computer+Engineering+Student;Mobile+%26+Web+Developer" alt="Typing SVG" />
+</a>
 
-### Technical Skills
+<p align="center">
+  <em>A passionate Computer Engineering student from Sripatum University, Thailand.</em>
+</p>
 
-**Languages**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript/TypeScript](https://img.shields.io/badge/javascript%2Ftypescript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C/C++](https://img.shields.io/badge/c%2Fc%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- 3D Globe Animation หมุนๆ เพิ่มความเฟี้ยว -->
+<img align="right" alt="Coding" width="200" src="https://github-readme-globe.vercel.app/api?color=2196F3" />
 
-**Frameworks**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![HTML/CSS](https://img.shields.io/badge/html%2Fcss-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<br/>
 
-**Databases & Cloud**  
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL/MariaDB](https://img.shields.io/badge/mysql%2Fmariadb-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS (EC2)](https://img.shields.io/badge/AWS_(EC2)-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<!-- ปุ่ม Contact 3 ปุ่ม (กดได้จริง) -->
+<h3 align="center">🚀 Connect with me</h3>
+<p align="center">
+  <a href="ใส่ลิ้งก์_Facebook_ของยูนที่นี่" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abasdrun-maeha-266297421" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://line.me/ti/p/UtYAq0lyxF" target="_blank">
+    <img src="https://img.shields.io/badge/LINE-%2300C300.svg?style=for-the-badge&logo=line&logoColor=white" alt="LINE"/>
+  </a>
+</p>
 
-**Hardware & IoT**  
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white) ![EasyEDA (PCB Design)](https://img.shields.io/badge/EasyEDA_(PCB)-005696?style=for-the-badge)
+<br/>
 
-**Tools & Automation**  
-![Git/GitHub](https://img.shields.io/badge/git%2Fgithub-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Make.com](https://img.shields.io/badge/Make.com-141414?style=for-the-badge) ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<!-- Technical Skills เปลี่ยนเป็นแบบ Icon App -->
+<h3 align="center">🛠 Technical Skills</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- แถวที่ 1: Languages -->
+    <img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,html,css" />
+    <br><br>
+    <!-- แถวที่ 2: Frameworks & Databases -->
+    <img src="https://skillicons.dev/icons?i=react,fastapi,postgres,supabase,mysql,mongo" />
+    <br><br>
+    <!-- แถวที่ 3: Tools, Cloud & Hardware -->
+    <img src="https://skillicons.dev/icons?i=aws,docker,figma,git,github,raspberrypi" />
+  </a>
+</p>
+
+<br/>
+<br/>
+
+<!-- GitHub Stats แบบเพิ่มมิติ -->
+<h3 align="center">📈 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abasdrun&show_icons=true&theme=tokyonight&hide_border=true&title_color=2196F3" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasdrun&layout=compact&theme=tokyonight&hide_border=true&title_color=2196F3" alt="Top Languages" width="35%" />
+</p>
+
+</div>
