@@ -8,10 +8,10 @@
 <!-- ปุ่ม Contact 3 ปุ่ม -->
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="[https://web.facebook.com/abasdroon.maeha/?locale=th_TH](https://www.facebook.com/abasdroon.maeha/)" target="_blank">
+  <a href="https://www.facebook.com/abasdroon.maeha/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="[https://www.linkedin.com/in/abasdrun-maeha-26629742](https://www.linkedin.com/in/abasdrun-maeha/)" target="_blank">
+  <a href="https://www.linkedin.com/in/abasdrun-maeha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://line.me/ti/p/UtYAq0lyxF" target="_blank">
