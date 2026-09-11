@@ -14,7 +14,7 @@
   <a href="[https://www.linkedin.com/in/abasdrun-maeha-26629742](https://www.linkedin.com/in/abasdrun-maeha/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://line.me/ti/p/UtYAq0lyxF](https://line.me/ti/p/UtYAq0lyxF)" target="_blank">
+  <a href="https://line.me/ti/p/UtYAq0lyxF" target="_blank">
     <img src="https://img.shields.io/badge/LINE-%2300C300.svg?style=for-the-badge&logo=line&logoColor=white" alt="LINE"/>
   </a>
 </p>
